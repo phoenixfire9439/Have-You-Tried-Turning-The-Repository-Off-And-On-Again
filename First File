@@ -1,0 +1,6 @@
+echo "# Have-You-Tried-Turning-The-Repository-Off-And-On-Again" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/phoenixfire9439/Have-You-Tried-Turning-The-Repository-Off-And-On-Again.git
+git push -u origin master
